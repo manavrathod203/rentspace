@@ -520,11 +520,12 @@ nav .center-nav{
         gap: 2.5vh;
     }
     .bottom .option label{
-        font-size: 3.5vw;
+        font-size: 4vw;
     }
     .bottom .option select{
         width: 50vw;
-        font-size: 3vw;
+        font-size: 3.5vw;
+        padding: 1.25vh;
     }
     .bottom button{
         padding: 2vw 5vw;
@@ -641,5 +642,7 @@ nav .center-nav{
     .part4 .images .img:nth-child(2n){
        height: 30vh;
     }
-    
+    .list h2{
+        font-size: 6vw;
+    }
 }
